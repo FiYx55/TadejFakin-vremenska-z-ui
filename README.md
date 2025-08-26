@@ -4,6 +4,8 @@
 
 VremenskaPro is a comprehensive weather application built with Next.js that provides current weather conditions, forecasts, and historical weather analysis. The application features a modern, responsive design with day/night theming and Slovenian localization.
 
+Available at: https://tadej-fakin-vremenska-z-ui.vercel.app/
+
 ## ✨ Features
 
 ### Current Weather
